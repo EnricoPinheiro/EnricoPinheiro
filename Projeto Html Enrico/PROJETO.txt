@@ -1,0 +1,32 @@
+Projeto HTML/CSS
+
+TEMAS/Requisitos mínimos:
+
+-RESTAURANTE/LANCHONETE:
+    -Home: história do restaurante com fotos.
+    -Cardápio: foto, nome e descrição dos pratos.
+    -Galeria: fotos do local e eventos.
+    -Reservas: formulário.
+    -Como chegar:  mapa.
+
+-Clínica Médica:
+    -HOME: descrição das especialidades disponível e fotos ilustrativas.
+    -Especialidades: foto de cada médico por especialização.
+    -Marcação: formulário para marcação de consultas.
+    -Galeria: galeria de fotos dos recém-nascidos, com nome, peso, altura e nome da mãe.
+    -Como chegar: mapa.
+
+
+-Academia:
+    -Home: fotos do local com incentivos à se matricular.
+    -Atividades: fotos e descrições das atividades da academia. Separar por tipos se houver.
+    -Eventos: galeria de fotos de eventos e competições.
+    -Matricule-se Já: formulário de matricula.
+    -Como chegar: mapa
+
+-Curso:
+    -Home: história e fotos do local.
+    -Cursos: descrição dos cursos com fotos ilustrativas. Separe por especialidades se houver.
+    -Premiações: fotos de alunos destaques e ganhadores de eventos e promoções.
+    -Matriculas: formulário de matricula.
+    -como chegar: mapa

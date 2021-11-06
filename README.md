@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java!
 - 💞️ I’m Hoping one day to collaborate on any kind of game development!
 - 📫 How to reach me
-    - enricopinheiro@globo.com
+    - enrico7pinheiro@gmail.com
     - Telephone & Whatsapp - +55 (21) 997679007
     - Facebook & Instagram: EnricoPinheiro7
 - More info on:

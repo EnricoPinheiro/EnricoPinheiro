@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnricoPinheiro!
-- 👀 I’m interested in Programming and Gaming!
+- 👀 I’m currently working at TBDC Agro Softwares!
 - 💞️ I’m Hoping one day to collaborate on any kind of game development!
 - 📫 How to reach me
     - enrico7pinheiro@gmail.com
